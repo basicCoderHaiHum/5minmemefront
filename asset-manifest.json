@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/5minmemefront/static/css/main.ff720c1a.css",
+    "main.js": "/5minmemefront/static/js/main.01684d5b.js",
+    "static/js/787.f1690450.chunk.js": "/5minmemefront/static/js/787.f1690450.chunk.js",
+    "index.html": "/5minmemefront/index.html",
+    "main.ff720c1a.css.map": "/5minmemefront/static/css/main.ff720c1a.css.map",
+    "main.01684d5b.js.map": "/5minmemefront/static/js/main.01684d5b.js.map",
+    "787.f1690450.chunk.js.map": "/5minmemefront/static/js/787.f1690450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff720c1a.css",
+    "static/js/main.01684d5b.js"
+  ]
+}
