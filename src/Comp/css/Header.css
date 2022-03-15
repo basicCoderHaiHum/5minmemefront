@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    height: 60px;
+    width: 100%;
+    background: #fff;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+.profile{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 1px solid rgb(170, 170, 170);
+    position: absolute;
+    font-size: 15px;
+    top: 7.5px;
+    right: 15px;
+}
+.ico{
+    height: 45px;
+    width: 160px;
+    position: absolute;
+    top: 7.5px;
+    left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 23px;
+    white-space: nowrap;
+}
+
+.count{
+    height: 45px;
+    width: 160px;
+    border: 1px solid #666;
+    position: absolute;
+    top: 7.5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+    font-weight: 600;
+    left: 15px;
+}

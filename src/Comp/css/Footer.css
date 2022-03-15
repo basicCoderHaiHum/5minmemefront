@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.footer{
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid rgb(150, 150, 150);
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.sub-div{
+    width: 25%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    border-left: 1px solid #999;
+    align-items: center;
+}
+.footer-ico {
+    height: 40px;
+    aspect-ratio: 1;
+    margin-top: 25px;
+}
